@@ -1,3 +1,108 @@
 .main-flex-p span {
     color: rgba(255, 208, 80, 1);
 }
+
+.section {
+    height: 720px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    background-image: url(img/man-in-black-suit-wearing-eye-glasses-sitting-on-gray-sofa-using-macbook-3772622.png);
+}
+
+.main-flex {
+    color: #fff;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    padding-left: 100px;
+    gap: 40px;
+    padding-top: 6rem;
+    flex-direction: column;
+}
+
+.linear {
+    height: 720px;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+}
+
+.read-more {
+    width: 204px;
+    height: 56px;
+    color: black;
+    border: none;
+    font-weight: 700px;
+    font-size: 18px;
+    border: 2px solid rgba(255, 208, 80, 1);
+    background-color: rgba(255, 208, 80, 1);
+}
+
+.read-more:hover {}
+
+.main-flex h2 {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.main-flex h1 {
+    font-size: 56px;
+    font-weight: 700
+}
+
+.main-flex p {
+    font-size: 16px;
+    width: 599px;
+}
+
+
+.section2-flex2-card {
+    width: 517px;
+    height: 181px;
+    padding: 30px;
+    cursor: pointer;
+}
+
+.section2-flex2-card:hover {
+    background-color: rgba(251, 246, 234, 1);
+}
+
+.section2-card {
+    width: 733px;
+    height: 730px;
+    padding: 40px;
+    box-shadow: 0 0 2px rgba(109, 110, 118, 1);
+}
+
+.section2-card-text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.section2-card-text h1 {
+    font-size: 28px;
+}
+
+.section2-card-text h2 {
+    font-size: 14px;
+}
+
+.section1-main-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.all-h1 {
+    margin-bottom: 2rem;
+    font-size: 36px;
+}
+
+.section2 {
+    height: 1000px;
+    display: flex;
+    align-items: center;
+}
