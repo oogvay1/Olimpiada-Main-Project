@@ -1,6 +1,23 @@
 .words{
     display: flex;
+    gap: 20px;
     align-items: center;
     margin-left: 336px;
     margin-top: 208px;
 }
+.rasm img{
+    width: 48px;
+    height: 48px;
+
+}
+.word h2{
+    font-size: 28px;
+    color: #592EA9;
+}
+.word p{
+    font-size: 16px;
+    color: #6D6E76;
+    margin-top: 5px;
+}
+.
+
