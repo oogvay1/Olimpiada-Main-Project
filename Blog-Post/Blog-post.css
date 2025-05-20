@@ -19,5 +19,150 @@
     color: #6D6E76;
     margin-top: 5px;
 }
-.
+.word2 h2{
+    font-size: 48px;
+    margin-left: 336px;
+    margin-top: 40px;
+    color: #232536;
+
+}
+.word3{
+    display: flex;
+    gap: 10px;
+    margin-top: 60px;
+    margin-left: 336px;
+}
+.word3 img{
+    width: 18px;
+    height: 18px;
+    
+}
+.words3 p{
+    font-size: 24px;
+    color: #232536;
+}
+.rasm2 img{
+    width: 1280px;
+    height: 582px;
+    margin-top: 80px;
+    margin-left: 80px;
+
+}
+.word4{
+    margin-top: 50px;
+    margin-left: 336px;
+}
+.word4 h2{
+    font-size: 36px;
+    color: #232536;
+}
+.word4 p{
+    font-size: 16px;
+    color: #6D6E76;
+    margin-top: 20px;
+}
+.word5{
+    margin-top: 50px;
+    margin-left: 336px;
+}
+.word5 h2{
+    font-size: 36px;
+    color: #232536;
+}
+.word5 p{
+    font-size: 16px;
+    color: #6D6E76;
+    margin-top: 20px;
+}
+.word6{
+    margin-left: 336px;
+    margin-top: 50px;
+    
+}
+.word6 li{
+    margin-top: 10px;
+    font-size: 24px;
+    
+}
+.word6 a{
+    color: #161722;
+}
+.word7{
+    margin-top: 40px;
+    margin-left: 336px;
+}
+.word7 p{
+    font-size: 16px;
+    color: #6D6E76;
+}
+.word8{
+    margin-top: 50px;
+    margin-left: 336px;
+}
+.word8 h2{
+    font-size: 36px;
+    color: #232536;
+}
+.word8 p{
+    font-size: 16px;
+    color: #6D6E76;
+    margin-top: 20px;
+}
+.word9 h2{
+    margin-top: 150px;
+    font-size: 36px;
+    color: #000000;
+    margin-left: 40px;
+}
+.rasmlar{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-left: 40px;
+    margin-top: 80px;
+
+
+}
+.img img{
+    width: 405px;
+    height:405px;
+
+}
+.img p{
+    font-size: 14px;
+    margin-top: 20px;
+} 
+.img h2{
+    font-size: 28px;
+    margin-top: 20px;
+}
+.word10 p{
+    font-size: 16px;
+    color: #232536;
+}
+.img2 img{
+    width: 405px;
+    height:405px;
+}
+.img2 h2{
+    font-size: 28px;
+    margin-top: 20px;
+}
+.img2 p{
+font-size: 14px;
+    margin-top: 20px;
+}
+.img3 img{
+    width: 405px;
+    height:405px;
+}
+
+.img3 h2{
+    font-size: 28px;
+    margin-top: 20px;
+}
+.img3 p{
+    font-size: 14px;
+    margin-top: 20px;
+}
 
