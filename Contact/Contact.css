@@ -1,9 +1,34 @@
 .header-flex{
    display: flex; 
+   width: 768px;
+   height: 176px;
+   justify-content: center;
+   align-items: center;
+   margin: 0 auto;
+   flex-direction: column;
 }
 .title{
     width: 134px;
     height: 36px;
     margin: 0 auto;
     margin-top: 1.5rem;
+}
+
+.text h1{
+    width: 557px;
+    height: 64px;
+    font-size: 64px;   
+}
+.text p{
+    width: 768px;
+    height: 56px;
+    font-size: 16px;
+    color: #6D6E76;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.text title {
+    width: 134px;
+    height: 36px;
 }
