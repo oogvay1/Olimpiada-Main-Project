@@ -182,12 +182,15 @@ footer{
     color: #000D2F;
 }
 .content{
-    display: flex;
     padding: 80px 64px;
     height: 256px;
     width: 1280px;
     background-color: content;
     background-color: #4C4C4C;
+}
+.cont{
+    display: flex;
+    justify-content: space-between;
 }
 .content1 h2{
     color: #fff;
