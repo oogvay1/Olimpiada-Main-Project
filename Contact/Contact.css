@@ -1,0 +1,9 @@
+.header-flex{
+   display: flex; 
+}
+.title{
+    width: 134px;
+    height: 36px;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+}
