@@ -165,4 +165,42 @@ font-size: 14px;
     font-size: 14px;
     margin-top: 20px;
 }
+.card {
+    width: 414px;
+    height: 256px;
+    top: 5052px;
+    left: 513px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
 
+.card h1 {
+    width: 414px;
+    height: 96px;
+    display: flex;
+    align-items: center;
+   text-align: center;
+    margin-top: 76px;
+    font-size: 36px;
+}
+
+.card p {
+    width: 405px;
+    height: 56px;
+    text-align: center;
+    color: gray;
+}
+
+.card-btn {
+    background-color: rgb(255, 175, 27);
+    padding: 12px 30px;
+    gap: 12px;
+    bottom: 16px;
+    border: none;
+    margin: 0 auto;
+    display: flex;
+}
