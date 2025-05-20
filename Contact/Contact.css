@@ -148,3 +148,26 @@
     height: 0px;
     color: #fff;
 }
+
+.section-card1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.section-card{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.islom-h2 {
+color: #6D6E76}
+
+.button {
+margin-top: 1rem;}
+
+.section {
+margin-top: 4rem;}

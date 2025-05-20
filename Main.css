@@ -72,3 +72,7 @@ h1, h2 {
 p {
     font-family: 'Inter', sans-serif;
 }
+
+input {
+    outline: none;
+}
