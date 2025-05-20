@@ -1,0 +1,20 @@
+.section-hp{
+width: 1440px;
+height: 256px;
+top: 80px;
+}
+.section-hp h1{
+  width: 302px;
+height: 64px;
+top: 160px;
+left: 569px;
+align-items: center;
+
+} 
+.section-hp p{
+width: 278px;
+height: 28px;
+top: 228px;
+left: 581px;
+opacity: 0.6;
+}
