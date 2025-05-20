@@ -1,120 +1,144 @@
-.words{
+.words {
     display: flex;
     gap: 20px;
     align-items: center;
     margin-left: 336px;
     margin-top: 208px;
 }
-.rasm img{
+
+.rasm img {
     width: 48px;
     height: 48px;
 
 }
-.word h2{
+
+.word h2 {
     font-size: 28px;
     color: #592EA9;
 }
-.word p{
+
+.word p {
     font-size: 16px;
     color: #6D6E76;
     margin-top: 5px;
 }
-.word2 h2{
+
+.word2 h2 {
     font-size: 48px;
     margin-left: 336px;
     margin-top: 40px;
     color: #232536;
 
 }
-.word3{
+
+.word3 {
     display: flex;
     gap: 10px;
     margin-top: 60px;
     margin-left: 336px;
 }
-.word3 img{
+
+.word3 img {
     width: 18px;
     height: 18px;
-    
+
 }
-.words3 p{
+
+.words3 p {
     font-size: 24px;
     color: #232536;
 }
-.rasm2 img{
+
+.rasm2 img {
     width: 1280px;
     height: 582px;
     margin-top: 80px;
     margin-left: 80px;
 
 }
-.word4{
+
+.word4 {
     margin-top: 50px;
     margin-left: 336px;
 }
-.word4 h2{
+
+.word4 h2 {
     font-size: 36px;
     color: #232536;
 }
-.word4 p{
+
+.word4 p {
     font-size: 16px;
     color: #6D6E76;
     margin-top: 20px;
 }
-.word5{
+
+.word5 {
     margin-top: 50px;
     margin-left: 336px;
 }
-.word5 h2{
+
+.word5 h2 {
     font-size: 36px;
     color: #232536;
 }
-.word5 p{
+
+.word5 p {
     font-size: 16px;
     color: #6D6E76;
     margin-top: 20px;
 }
-.word6{
+
+.word6 {
     margin-left: 336px;
     margin-top: 50px;
-    
+
 }
-.word6 li{
+
+.word6 li {
     margin-top: 10px;
     font-size: 24px;
-    
+
 }
-.word6 a{
+
+.word6 a {
     color: #161722;
 }
-.word7{
+
+.word7 {
     margin-top: 40px;
     margin-left: 336px;
 }
-.word7 p{
+
+.word7 p {
     font-size: 16px;
     color: #6D6E76;
 }
-.word8{
+
+.word8 {
     margin-top: 50px;
     margin-left: 336px;
 }
-.word8 h2{
+
+.word8 h2 {
     font-size: 36px;
     color: #232536;
 }
-.word8 p{
+
+.word8 p {
     font-size: 16px;
     color: #6D6E76;
     margin-top: 20px;
 }
-.word9 h2{
+
+.word9 h2 {
     margin-top: 150px;
     font-size: 36px;
     color: #000000;
     margin-left: 40px;
 }
-.rasmlar{
+
+.rasmlar {
     display: flex;
     gap: 30px;
     justify-content: center;
@@ -123,48 +147,58 @@
 
 
 }
-.img img{
+
+.img img {
     width: 405px;
-    height:405px;
+    height: 405px;
 
 }
-.img p{
+
+.img p {
     font-size: 14px;
     margin-top: 20px;
-} 
-.img h2{
+}
+
+.img h2 {
     font-size: 28px;
     margin-top: 20px;
 }
-.word10 p{
+
+.word10 p {
     font-size: 16px;
     color: #232536;
 }
-.img2 img{
+
+.img2 img {
     width: 405px;
-    height:405px;
-}
-.img2 h2{
-    font-size: 28px;
-    margin-top: 20px;
-}
-.img2 p{
-font-size: 14px;
-    margin-top: 20px;
-}
-.img3 img{
-    width: 405px;
-    height:405px;
+    height: 405px;
 }
 
-.img3 h2{
+.img2 h2 {
     font-size: 28px;
     margin-top: 20px;
 }
-.img3 p{
+
+.img2 p {
     font-size: 14px;
     margin-top: 20px;
 }
+
+.img3 img {
+    width: 405px;
+    height: 405px;
+}
+
+.img3 h2 {
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+.img3 p {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
 .card {
     width: 414px;
     height: 256px;
@@ -183,7 +217,7 @@ font-size: 14px;
     height: 96px;
     display: flex;
     align-items: center;
-   text-align: center;
+    text-align: center;
     margin-top: 76px;
     font-size: 36px;
 }
@@ -204,12 +238,16 @@ font-size: 14px;
     margin: 0 auto;
     display: flex;
 }
+
 .card {
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
-gap: 20px;}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
 
 .sunnat {
-margin-top: 2rem;}
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}

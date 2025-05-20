@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Sen:wght@400..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Sen:wght@400..800&display=swap');
 
@@ -65,7 +64,8 @@
     color: white;
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: 'Sen', sans-serif;
 }
 
@@ -75,50 +75,61 @@ p {
 
 input {
     outline: none;
-}/* footer */
-footer{
+}
+
+/* footer */
+footer {
     background-color: #232536;
 }
-.footer_page{
+
+.footer_page {
     padding-top: 59px 80px;
 }
-.foots{
+
+.foots {
     padding-top: 59px;
     display: flex;
     justify-content: space-between;
     color: #fff;
     margin-bottom: 54px;
 }
-.fot_logo{
+
+.fot_logo {
     font-size: 30px;
 }
-.fot_contack ul{
+
+.fot_contack ul {
     display: flex;
     gap: 24px;
 }
-.fot_contack ul a{
+
+.fot_contack ul a {
     color: #fff;
 }
-.fot_a{
+
+.fot_a {
     display: block;
 }
-.fot_a a{
+
+.fot_a a {
     color: #FFF;
 }
-.bit{
+
+.bit {
     display: flex;
     justify-content: space-between;
     margin-top: 50px;
 }
 
-.foot_icons{
+.foot_icons {
     display: flex;
     align-items: center;
     gap: 10px;
     color: #fff;
     margin-bottom: 10px;
 }
-.foot_icon{
+
+.foot_icon {
     width: 40px;
     height: 40px;
     display: flex;
@@ -129,22 +140,26 @@ footer{
     cursor: pointer;
     transition: all .5s ease;
 }
-.foot_icon:hover{
+
+.foot_icon:hover {
     background-color: #fff;
     color: #000D2F;
 }
-.content{
+
+.content {
     padding: 80px 64px;
     height: 256px;
     width: 1440px;
     background-color: content;
     background-color: #4C4C4C;
 }
-.cont{
+
+.cont {
     display: flex;
     justify-content: space-between;
 }
-.content1 h2{
+
+.content1 h2 {
     color: #fff;
     font-size: 36px;
     font-weight: 700;
@@ -152,34 +167,49 @@ footer{
     width: 624px;
     margin-bottom: 16px;
 }
-.content1 p{
+
+.content1 p {
     color: #fff;
     font-size: 16px;
 }
-.content2{
+
+.content2 {
     display: flex;
     align-items: center;
     gap: 24px;
 }
-input{
+
+input {
     padding: 14px 24px;
     background: none;
     border: none;
     border: 1px solid #393939;
 }
-.sub_btn{
+
+.sub_btn {
     padding: 16px 48px;
     border: none;
     font-weight: 700;
     font-size: 18px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
-    font-family: 'sen',sans-serif;
+    font-family: 'sen', sans-serif;
     background-color: #FFD050;
     color: #000D2F;
     height: 45px;
 }
-.sub_btn:hover{
+
+.sub_btn:hover {
     background-color: #000D2F;
     color: #fff;
+}
+
+.read-more {
+    border: 3px solid FFD050;
+    transition: all .1s ease-in-out;
+}
+
+.read-more:hover {
+    background-color: #232536;
+    color: white;
 }
