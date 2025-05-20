@@ -61,6 +61,7 @@
     height: 181px;
     padding: 30px;
     cursor: pointer;
+    transition: all .1s ease-in-out;
 }
 
 .section2-flex2-card:hover {
